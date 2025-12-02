@@ -1,6 +1,6 @@
 # DioWAppLauncher
 A Wayland application to quicky search for and launch applications installed on your system.
-It looks for .desktop files in '~/.local/share/applications', '/usr/share/applicartions' and '/usr/local/share/applicartions'.
+It looks for .desktop files in '~/.local/share/applications', '/usr/share/applications' and '/usr/local/share/applications'.
 It was tested on Debian 12 on Wayfire.
 
 # What you can do with DioWAppLauncher
